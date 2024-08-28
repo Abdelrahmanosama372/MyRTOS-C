@@ -1,3 +1,3 @@
 # MyRTOS-C
 - roundrobin example
-![roundrobin](./roundrobin.png)
+![roundrobin](images/roundrobin.png)
